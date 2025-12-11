@@ -85,9 +85,26 @@ Two-Tower neural architecture:
 - **Disease Tower:** Embedding layer  
 - **Fusion Layer:** Concatenate + Dense for final prediction  
 
+
 ---
 
 ## Results
+
+### ROC Curve
+<img src="images/roc_curve.png" width="500"/>
+
+### Confusion Matrix (MM-DNN)
+<img src="images/confusion_matrix.png" width="400"/>
+
+### PCA Visualization
+<img src="images/pca_plot.png" width="500"/>
+
+### XGBoost Feature Importance
+<img src="images/feature_importance.png" width="500"/>
+
+---
+
+## Model Performance (AUC)
 
 | Model | AUC |
 |-------|------|
@@ -95,13 +112,6 @@ Two-Tower neural architecture:
 | Random Forest | 0.8294 |
 | XGBoost | Lower (struggles with sparse FP) |
 | **MM-DNN (Ours)** | **0.8508 — Best** |
-
-Visualizations included:
-
-- ROC Curve  
-- Confusion Matrix  
-- PCA feature space  
-- XGBoost Feature Importance  
 
 ---
 
