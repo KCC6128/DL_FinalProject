@@ -120,11 +120,4 @@ Two-Tower neural architecture:
 | XGBoost | 0.7350 — Lower (struggles with sparse FP) |
 | **MM-DNN (Ours)** | **0.8508 — Best** |
 
----
-
-## How to Run
-
-### Install dependencies
-```bash
-pip install rdkit-pypi xgboost tensorflow
 
