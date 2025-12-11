@@ -1,6 +1,9 @@
 # Drug–Disease Association Prediction  
 Hybrid Machine Learning + Multi-Modal Deep Neural Network (MM-DNN)
 
+## Kaggle Notebook  
+[Open in Kaggle](https://www.kaggle.com/code/kuanchung/drug-disease-association-prediction)
+
 This project predicts whether a drug can treat a specific disease using chemical
 structure features, protein targets, and disease identity.  
 We evaluate traditional machine learning baselines and propose a multi-modal
