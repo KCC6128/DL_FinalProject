@@ -112,8 +112,8 @@ Two-Tower neural architecture:
 | Model | AUC |
 |-------|------|
 | Logistic Regression | 0.8396 |
-| Random Forest | 0.8294 |
-| XGBoost | Lower (struggles with sparse FP) |
+| Random Forest | 0.8273 |
+| XGBoost | 0.7350 — Lower (struggles with sparse FP) |
 | **MM-DNN (Ours)** | **0.8508 — Best** |
 
 ---
