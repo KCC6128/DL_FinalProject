@@ -97,7 +97,7 @@ Two-Tower neural architecture:
 <img src="images/confusion_matrix.png" width="400"/>
 
 ### PCA Visualization
-<img src="images/pca_plot.png" width="500"/>
+<img src="images/pca.png" width="500"/>
 
 ### XGBoost Feature Importance
 <img src="images/feature_importance.png" width="500"/>
