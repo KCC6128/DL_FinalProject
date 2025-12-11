@@ -49,8 +49,8 @@ Dataset size:
 
 - **Input:** Drug Features (Chemical Structure) + Disease Features (ID/Embedding)
 - **Output:**
-  `1`: Associated (Effective)
-  `0`: Not Associated
+  - `1`: Associated (Effective)
+  - `0`: Not Associated
 
 ---
 
